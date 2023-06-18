@@ -38,6 +38,7 @@ dependencies:
 
   firebase_core: ^2.14.0 # nécessaire pour initialiser Firebase
   firebase_auth: ^4.6.3 # pour utiliser Firebase Auth
+  firebase_core_platform_interface: ^4.8.0
 
 dev_dependencies:
   flutter_test:

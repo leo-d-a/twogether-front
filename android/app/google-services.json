@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "91868253118",
+    "project_id": "twogether-ab050",
+    "storage_bucket": "twogether-ab050.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:91868253118:android:1004d43918378ed1be47ef",
+        "android_client_info": {
+          "package_name": "com.twogether.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "91868253118-umsqfhlnsn8518l61e425grmt45idhnc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChnXgcEt5DiqjbD93-ie3vvxI5K-NmSuI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "91868253118-umsqfhlnsn8518l61e425grmt45idhnc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
